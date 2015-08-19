@@ -4,7 +4,7 @@ comunidade NodeBR
 
 ### Episódios
 
-* [1 - Mercado de trabalho e Profissionalismo](#1)
+* [1 - Mercado de trabalho e Profissionalismo](https://github.com/nodebr/podcast/issues/1)
 
 ### License (ISC)
 
