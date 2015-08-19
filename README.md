@@ -1,10 +1,15 @@
 # NodeBR Cast
-Este repositório serve para a organização dos podcast produzidos pela
-comunidade NodeBR
+Este repositório serve para a organização dos podcast produzidos quinzenalmente
+pela comunidade NodeBR.
 
 ### Episódios
 
 * [1 - Mercado de trabalho e Profissionalismo](https://github.com/nodebr/podcast/issues/1)
+
+### Como participar
+
+Se você gostaria de contribuir sugerindo temas, participantes, formatos, etc,
+basta abrir uma nova issue, simples assim :-)
 
 ### License (ISC)
 
